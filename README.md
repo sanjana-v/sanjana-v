@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Sanjana  👋
 
-<!--
-**sanjana-v/sanjana-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📧 [Your Email](mailto:sanjana.oned@gmail.com)
+📝 [LinkedIn](www.linkedin.com/in/sanjana1venkatesh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Data Enthusiast | Python Developer | Cloud Enthusiast
+
+📚 Technologies I work with:
+- Google Cloud platform
+- ETL
+- Machine Learning
+- Python, Java , C++
+- SQL and NoSQL databases
+
+Passionate about data and the insights it can uncover. 📊💡 
+🌐 Certified as an Associate Cloud Engineer by GCP, my experience as a Data Engineer at Quantiphi Analytics has honed my skills in optimizing data pipelines and leveraging BigQuery to enhance data integrity and reliability. 🛠️ 
+🚀 Let's connect and explore opportunities in data analysis and data science. I'm excited to bring my skills to the table for impactful projects. 📈 #DataScience #DataAnalytics #DataEngineerPassionate
+Feel free to explore my repositories and let's connect for exciting collaborations!
+
