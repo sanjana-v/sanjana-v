@@ -1,7 +1,7 @@
 # Hello, I'm Sanjana  👋
 
 
-📧 [Your Email](mailto:sanjana.oned@gmail.com)
+📧 [Email](mailto:sanjana.oned@gmail.com)
 📝 [LinkedIn](www.linkedin.com/in/sanjana1venkatesh)
 
 👨‍💻 Data Enthusiast | Python Developer | Cloud Enthusiast
